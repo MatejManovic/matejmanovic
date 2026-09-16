@@ -52,8 +52,10 @@ I like building useful applications and improving my skills.
 
 ### 🔥 GitHub Stats
 
-![Matej's GitHub stats](https://github-readme-stats-phi-azure.vercel.app/api?username=MatejManovic&show_icons=true&theme=tokyonight)
-![Tux](./Tux.png)
+<p align="center">
+  <img src="https://github-readme-stats-phi-azure.vercel.app/api?username=MatejManovic&show_icons=true&theme=tokyonight" valign="middle" />
+  <img src="./Tux.png" alt="Tux" height="50" style="vertical-align: middle; margin-left: 20px;" />
+</p>
 
 ---
 
