@@ -53,6 +53,7 @@ I like building useful applications and improving my skills.
 ### 🔥 GitHub Stats
 
 ![Matej's GitHub stats](https://github-readme-stats-phi-azure.vercel.app/api?username=MatejManovic&show_icons=true&theme=tokyonight)
+![Tux](./tux-small.png)
 
 ---
 
