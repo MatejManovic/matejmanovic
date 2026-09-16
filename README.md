@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://matejmanovic.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-matejmanovic.dev-0077ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://shields.io" alt="Portfolio">
   </a>
 </p>
 
@@ -23,12 +23,12 @@ I like building useful applications and improving my skills.
 ### 🚀 Programming Languages I'm Learning
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
+  <img src="https://jsdelivr.net" height="50" />
+  <img src="https://jsdelivr.net" height="50" />
+  <img src="https://jsdelivr.net" height="50" />
+  <img src="https://jsdelivr.net" height="50" />
+  <img src="https://jsdelivr.net" height="50" />
+  <img src="https://jsdelivr.net" height="50" />
 </p>
 
 ---
@@ -36,29 +36,29 @@ I like building useful applications and improving my skills.
 ### 🛠️ Technologies I Work With
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" />
+  <img src="https://jsdelivr.net" height="50" />
+  <img src="https://jsdelivr.net" height="50" />
+  <img src="https://jsdelivr.net" height="50" />
+  <img src="https://jsdelivr.net" height="50" />
 </p>
 
 ---
 
 ### 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats-phi-azure.vercel.app/api/top-langs/?username=MatejManovic&layout=compact&theme=tokyonight)
+![Top Langs](https://vercel.app)
 
 ---
 
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-phi-azure.vercel.app/api?username=MatejManovic&show_icons=true&theme=tokyonight"/>
-  <img src="./Tux.png" alt="Tux" height="100" style="vertical-align: middle; margin-left: 20px;" />
+  <img src="https://vercel.app" height="195" style="vertical-align: middle;" />
+  <img src="./Tux.png" alt="Tux" height="195" style="vertical-align: middle; margin-left: 20px;" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://githubusercontent.com)
