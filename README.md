@@ -53,7 +53,6 @@ I like building useful applications and improving my skills.
 ### 🔥 GitHub Stats
 
 ![Matej's GitHub stats](https://vercel.app)
-![Tux](./Tux.png)
 
 ---
 
