@@ -52,10 +52,7 @@ I like building useful applications and improving my skills.
 
 ### 🔥 GitHub Stats
 
-<p align="center">
-  <img src="https://vercel.app" height="195" style="vertical-align: middle;" />
-  <img src="./Tux.png" alt="Tux" height="195" style="vertical-align: middle; margin-left: 20px;" />
-</p>
+![Matej's GitHub stats](https://vercel.app)
 
 ---
 
