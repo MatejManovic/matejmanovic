@@ -1,24 +1,12 @@
 # 👋 Hi, I'm Matej — Application Development Apprentice
 
-<p align="center">
-  <a href="https://matejmanovic.dev" target="_blank">
-    <img src="https://shields.io" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
-
----
-
 ### 🧠 About Me
 
 I'm an application development apprentice at KNAPP who enjoys programming and learning new technologies. I like building useful applications and improving my skills.
 
 - 💡 I enjoy solving problems and learning new technologies.
-- 🌐 Currently working with **HTML**, **CSS**, **JavaScript** and **React**.
-- ⚙️ Expanding my knowledge in **C**, **C++**, **Python** and **Node.js**.
+- 🌐 Currently working with HTML, CSS, JavaScript and React.
+- ⚙️ Expanding my knowledge in C, C++, Python and Node.js.
 - 🐧 Proud Linux user & Open Source enthusiast.
 - 🎯 Goal: Grow as an application developer and build useful software.
 
@@ -26,27 +14,30 @@ I'm an application development apprentice at KNAPP who enjoys programming and le
 
 ### 🚀 Programming Languages & Technologies I Use
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logote
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-bo=css3&logoColor=white
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&t&logoColor=black
+![React](https://img.shields.io/badge/React-20232A?style=fore&logo=react&logoColor=61DAFB
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logo=white
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cpluspluslor=white
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&white
 
 ---
 
 ### 🛠️ Tools & Ecosystem
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&t&logoColor=white
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColorngoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&b&logoColor=white
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black# 📁 Featured Projects
+
+- 🤖 VC Discord Bot – Simple Discord bot to create temporary voice channels (Node.js)
+- 🎮 Minecraft Launcher – Custom launcher with Skin Studio and Version Manager (Python & CustomTkinter)
+- 💬 Local Chatroom – Chatroom with registration using MongoDB, HTML, CSS and JavaScript
 
 ---
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://vercel.app" alt="Matej's GitHub stats" /><br><br>
-  <img src="https://vercel.app" alt="Top Langs" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=MatejManovic&show_icons=true&themeht
 
----
-
-### 🐍 Contribution Snake Game
-
-<p align="center">
-  <img src="https://githubusercontent.com" alt="Contribution Snake" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatejManovic&layout=compact&theme=tokyonightearn. Improve. Repeat.
