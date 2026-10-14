@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://DEINE-PORTFOLIO-URL.at"c="https://img.shields.io/badge/🌐_My_Portfolio-915EFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>tps://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=915EFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Matej+Manovic+👋;Application+Developer+Apprentice;Passionate+about+Web+Development+speed=50
+<a href="https://matejmanovic.dev"c="https://img.shields.io/badge/🌐_My_Portfolio-915EFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>tps://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=915EFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Matej+Manovic+👋;Application+Developer+Apprentice;Passionate+about+Web+Development+speed=50
 
 </div>
 
@@ -58,7 +58,7 @@ h3 align="center">📈 GitHub Statistics</h3>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MatejManovic&label=Profile%20Views&FF&style=for-the-badge
+<img src="https://komarev.com/ghpvc/?username=MatejManovic&label=Profile%20Views&FF&style=for-the-badge>
 
 </div>
 
