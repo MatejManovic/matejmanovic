@@ -13,9 +13,6 @@
   <a href="https://matejmanovic.dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-915EFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit my portfolio" />
   </a>
-  <a href="https://github.com/MatejManovic">
-    <img src="https://img.shields.io/badge/GitHub-MatejManovic-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
 
 </div>
 
