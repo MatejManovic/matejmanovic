@@ -1,6 +1,21 @@
-<div align="center">
+ <div align="center">
 
-<a href="https://matejmanovic.dev"c="https://img.shields.io/badge/🌐_My_Portfolio-915EFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>tps://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=915EFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Matej+Manovic+👋;Application+Developer+Apprentice;Passionate+about+Web+Development+speed=50>
+  <a href="https://matejmanovic.dev">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=915EFF&height=200&section=header&text=Matej%20Manovic&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Application%20Developer%20Apprentice&descAlignY=58&descSize=18" width="100%" alt="Matej Manovic - Application Developer Apprentice" />
+  </a>
+
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=915EFF&center=true&vCenter=true&width=600&lines=Application+Developer+Apprentice;Passionate+about+Web+Development;Building+Projects+with+Linux+and+Node.js">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=915EFF&center=true&vCenter=true&width=600&lines=Application+Developer+Apprentice;Passionate+about+Web+Development;Building+Projects+with+Linux+and+Node.js" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <a href="https://matejmanovic.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-915EFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit my portfolio" />
+  </a>
+  <a href="https://github.com/MatejManovic">
+    <img src="https://img.shields.io/badge/GitHub-MatejManovic-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
 
 </div>
 
@@ -8,17 +23,17 @@
 
 <h3 align="center">👨‍💻 About Me</h3>
 
-<div align="center">
-
-🎓 Apprentice Application Developer Coding
-
-💻 Focus on Web Development & Software Engineering
-
-🚀 Working with modern technologies and open-source tools
-
-🌱 Currently improving my skills in Node.js, Linux, C and C++
-
-</div>
+<p align="center">
+  I'm Matej, an Application Developer Apprentice passionate about building useful software and modern web applications.
+  <br/><br/>
+  💻 Focused on Web Development & Software Engineering
+  <br/>
+  🚀 Exploring Linux, self-hosting and open-source projects
+  <br/>
+  🌱 Improving my skills in Node.js, JavaScript, C and C++
+  <br/>
+  🛠️ Always learning by building real-world projects
+</p>
 
 ---
 
@@ -26,21 +41,23 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,c,cpp,javascript,nodejs,git,github,linux,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,c,cpp,bash,linux,git,github,vscode,docker&theme=dark" alt="Languages and tools" />
 
-h3 align="center">📈 GitHub Statistics</h3>
+</div>
+
+---
+
+<h3 align="center">📊 GitHub Statistics</h3>
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profilesername=MatejManovic&theme=midnight_purple
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MatejManovic&show_icons=true&hide_border=true&bg_color=0D1117&title_color=915EFF&icon_color=915EFF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
 
-<br><br>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatejManovic&layout=compact&hide_border=true&bg_color=0D1117&title_color=915EFF&text_color=C9D1D9" alt="Most used programming languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MatejManovic&theme=midnight-purple&hideue
+  <br/><br/>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatejManovic&layout=donut&theme=urple
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MatejManovic&theme=dark&hide_border=true&background=0D1117&ring=915EFF&fire=915EFF&currStreakLabel=915EFF" alt="GitHub contribution streak" />
 
 </div>
 
@@ -48,21 +65,34 @@ h3 align="center">📈 GitHub Statistics</h3>
 
 <h3 align="center">🐍 Contribution Snake</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MatejManovic&label=Profile%20Views&FF&style=for-the-badge>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=915EFF&height=120&section=footer&text=Matej%20Manovic&fontSize=28&fontColor=ffffff&animation=fadeIn
+
+  <img src="https://komarev.com/ghpvc/?username=MatejManovic&label=Profile%20Views&color=915EFF&style=for-the-badge" alt="Profile views" />
+
+  <br/><br/>
+
+  <a href="https://matejmanovic.dev">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-915EFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Explore my projects" />
+  </a>
+
+  <br/><br/>
+
+  <sub>Building, learning and improving — one project at a time.</sub>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=915EFF&height=100&section=footer" width="100%" alt="" />
+</div>
