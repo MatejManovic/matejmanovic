@@ -44,6 +44,14 @@ https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react=61DAFB
 
 ---
 
+### 📁 Featured Projects
+
+- 🤖 **VC Discord Bot** – Simple Discord bot to create temporary voice channels (Node.js)
+- 🎮 **Minecraft Launcher** – Custom launcher with Skin Studio and Version Manager (Python & CustomTkinter)
+- 💬 **Local Chatroom** – Chatroom with registration using MongoDB, HTML, CSS and JavaScript
+
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
