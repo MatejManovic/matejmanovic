@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -15,6 +19,7 @@ I'm an application development apprentice at KNAPP who enjoys programming and le
 - 💡 I enjoy solving problems and learning new technologies.
 - 🌐 Currently working with **HTML**, **CSS**, **JavaScript** and **React**.
 - ⚙️ Expanding my knowledge in **C**, **C++**, **Python** and **Node.js**.
+- 🐧 Proud Linux user & Open Source enthusiast.
 - 🎯 Goal: Grow as an application developer and build useful software.
 
 ---
@@ -34,12 +39,13 @@ I'm an application development apprentice at KNAPP who enjoys programming and le
 
 ---
 
-### 🛠️ Tools & Databases
+### 🛠️ Tools & Ecosystem
 
 <p align="left">
   <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="VS Code" />
   <img src="https://shields.io" alt="MongoDB" />
+  <img src="https://shields.io" alt="Tux" />
 </p>
 
 ---
@@ -52,7 +58,7 @@ I'm an application development apprentice at KNAPP who enjoys programming and le
 
 ---
 
-### 🔥 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://vercel.app" alt="Matej's GitHub stats" />
@@ -62,7 +68,7 @@ I'm an application development apprentice at KNAPP who enjoys programming and le
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake Game
 
 <p align="center">
   <img src="https://githubusercontent.com" alt="Contribution Snake" />
