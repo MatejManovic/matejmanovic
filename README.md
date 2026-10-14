@@ -12,27 +12,16 @@ I'm an application development apprentice at KNAPP who enjoys programming and le
 
 ---
 
-### 🚀 Programming Languages & Technologies I Use
+### 🚀 Programming Languages & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logote
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-bo=css3&logoColor=white
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&t&logoColor=black
-![React](https://img.shields.io/badge/React-20232A?style=fore&logo=react&logoColor=61DAFB
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logo=white
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cpluspluslor=white
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&white
-
----
-
-### 🛠️ Tools & Ecosystem
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&t&logoColor=white
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColorngoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&b&logoColor=white
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black# 📁 Featured Projects
-
-- 🤖 VC Discord Bot – Simple Discord bot to create temporary voice channels (Node.js)
-- 🎮 Minecraft Launcher – Custom launcher with Skin Studio and Version Manager (Python & CustomTkinter)
-- 💬 Local Chatroom – Chatroom with registration using MongoDB, HTML, CSS and JavaScript
+<img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"/>
+<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="30" alt="cplusplus logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="NodeJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="30" alt="Git"/>
 
 ---
 
