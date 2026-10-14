@@ -4,16 +4,14 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=915EFF&height=200&section=header&text=Matej%20Manovic&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Application%20Developer%20Apprentice&descAlignY=58&descSize=18" width="100%" alt="Matej Manovic - Application Developer Apprentice" />
   </a>
 
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=915EFF&center=true&vCenter=true&width=600&lines=Application+Developer+Apprentice;Passionate+about+Web+Development;Building+Projects+with+Linux+and+Node.js">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=915EFF&center=true&vCenter=true&width=600&lines=Application+Developer+Apprentice;Passionate+about+Web+Development;Building+Projects+with+Linux+and+Node.js" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=915EFF&center=true&vCenter=true&width=600&lines=Application+Developer+Apprentice;Passionate+about+Web+Development;Building+Projects+with+Linux+and+Node.js" alt="Typing SVG" />
 
   <br/>
 
   <a href="https://matejmanovic.dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-915EFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit my portfolio" />
   </a>
-
+  
 </div>
 
 ---
@@ -27,18 +25,36 @@
   <br/>
   🚀 Exploring Linux, self-hosting and open-source projects
   <br/>
-  🌱 Improving my skills in Node.js, JavaScript, C and C++
+  🌱 Improving my skills in Python, Node.js, JavaScript, C and C++
   <br/>
   🛠️ Always learning by building real-world projects
 </p>
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h3 align="center">💻 Skills</h3>
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,c,cpp,bash,linux,git,github,vscode,docker&theme=dark" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,python&theme=dark" alt="Programming languages and web development skills" />
+
+  <br/><br/>
+
+  <sub>HTML · CSS · JavaScript · C · C++ · Python</sub>
+
+</div>
+
+---
+
+<h3 align="center">⚙️ Technologies & Tools</h3>
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=nodejs,linux,bash,vscode,git,github,docker,unity&theme=dark" alt="Technologies and development tools" />
+
+  <br/><br/>
+
+  <sub>Node.js · Linux · Bash · Visual Studio Code · Git · GitHub · Docker · Unity</sub>
 
 </div>
 
