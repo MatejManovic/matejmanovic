@@ -36,14 +36,6 @@ I'm an application development apprentice at KNAPP who enjoys programming and le
 
 ---
 
-### 📁 Featured Projects
-
-- 🤖 **VC Discord Bot** – Simple Discord bot to create temporary voice channels (Node.js).
-- 🎮 **Minecraft Launcher** – Custom launcher with Skin Studio and Version Manager (Python & CustomTkinter).
-- 💬 **Local Chatroom** – Chatroom with registration using MongoDB, HTML, CSS, and JS.
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
