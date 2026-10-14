@@ -1,120 +1,70 @@
-# 👋 Hi, I'm Matej — Application Development Apprentice
+<div align="center">
 
-<p align="center">
-  <a href="https://matejmanovic.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge" alt="Portfolio">
-  </a>
-</p>
+<a href="https://DEINE-PORTFOLIO-URL.atrc="https://img.shields.io/badge/🌐_My_Portfolio-915EFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+ps://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=915EFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Matej+Manovic+👋;Application+Developer+Apprentice;Passionate+about+Web+Development+and+Linux&speed=50" alt="Typing SVG"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Application+Development+Apprentice;Linux+Enthusiast;Open+Source+Enthusiast;Future+Software+Developer;AlwaysCool+Projects
-</p>
+">👨‍💻 About Me</h3>
 
----
+<div align="center">
 
-### 🧠 About Me
+🎓 Apprentice Application Developer Coding
 
-I'm an application development apprentice at KNAPP who enjoys programming and learning new technologies. I like building useful applications and improving my skills.
+💻 Focus on Web Development & Software Engineering
 
-- 💡 I enjoy solving problems and learning new technologies.
-- 🌐 Currently working with **HTML**, **CSS**, **JavaScript** and **React**.
-- ⚙️ Expanding my knowledge in **C**, **C++**, **Python** and **Node.js**.
-- 🐧 Proud Linux user & Open Source enthusiast.
-- 🎯 Goal: Grow as an application developer and build useful software.
+🚀 Working with modern technologies and open-source tools
+
+🌱 Currently improving my skills in Node.js, Linux and C/C++
+
+</div>
 
 ---
 
-### 🚀 Programming Languages & Technologies I Use
+<h3 align="center">🛠️ Languages & Tools</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,cpp,mongodb,git,linux,vscode,arduino&perline--
+<div align="center">
 
-### 🛠️ Tools & Ecosystem
+<img src="https://skillicons.dev/icons?i=html,css,c,cpp,javascript,nodejs,gitnux,vscode,bash
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?styleadge&logo=linux&logoColor=black
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual&logoColor=white
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb=white
-</p>
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+<h3 align="center">📈 GitHub Statistics</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatejManovic&theme=tok-frame=true&no-bg=true&margin-w=10
-</p>
+<div align="center">
 
----
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profilesername=DEIN_GITHUB_USERNAME&theme=midnight_purple
 
-### 📁 Featured Projects
+<br><br>
 
-- 🤖 **VC Discord Bot** – Simple Discord bot to create temporary voice channels using Node.js.
-- 🎮 **Minecraft Launcher** – Custom launcher with Skin Studio and Version Manager built with Python & CustomTkinter.
-- 💬 **Local Chatroom** – Chatroom with user registration using MongoDB, HTML, CSS and JavaScript.
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DEIN_GITHUB_USERNAME&theme=midnight-purple&hide_border=true" />
 
----
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_GITHUB_USERNAME&layout=donut&theme=midnight-purple&hide=file
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatejManovic&show_icons=true&themerue
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatejManovicyonight&hide_border=true
-</p>
+</div>
 
 ---
 
-### 🔥 GitHub Streak
+<h3 align="center">🐍 Contribution Snake</h3>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MatejManovic&theme=tokyonight&r=true
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatejManovic&theme=t&hide_border=true
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-### 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MatejManovic/MatejManovic/output/github-contribution-grid-snake-dark.svg" alt="Snake animationl
+<img src="https://komarev.com/ghpvc/?username=DEIN_GITHUB_USERNAME&label=Profile%20Views&color=le=for-the-badge
 
-```bash
-matej@linux:~$ whoami
-
-Application Development Apprentice
-Linux Enthusiast
-Open Source Supporter
-Future Software Developer
-```
-
-```bash
-matej@linux:~$ skills
-
-HTML         ██████████
-CSS          █████████░
-JavaScript   ████████░░
-React        ███████░░░
-Python       ██████░░░░
-Linux        ██████████
-```
+</div>
 
 ---
 
-### 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MatejManovic&label=Profile%20Views&color=36BCF7&style=for-the>
-
----
-
-<p align="center">
-  <b>🐧 Code • Learn • Improve • Repeat</b>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=915EFF&height=120&section=footer&text=Matej%20Manovic&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
