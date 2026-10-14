@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi, I'm Matej<br>Application Development Apprentice</h1>
+# 👋 Hi, I'm Matej — Application Development Apprentice
 
 <p align="center">
   <a href="https://matejmanovic.dev" target="_blank">
-    <img src="https://shields.io" alt="Portfolio">
+    <img src="https://shields.io" alt="Portfolio" />
   </a>
 </p>
 
@@ -26,27 +26,13 @@ I'm an application development apprentice at KNAPP who enjoys programming and le
 
 ### 🚀 Programming Languages & Technologies I Use
 
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="NodeJS" />
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Python" />
-</p>
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Node.js](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io) ![Python](https://shields.io)
 
 ---
 
 ### 🛠️ Tools & Ecosystem
 
-<p align="left">
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="VS Code" />
-  <img src="https://shields.io" alt="MongoDB" />
-  <img src="https://shields.io" alt="Tux" />
-</p>
+![Git](https://shields.io) ![VS Code](https://shields.io) ![MongoDB](https://shields.io) ![Linux](https://shields.io)
 
 ---
 
@@ -61,8 +47,7 @@ I'm an application development apprentice at KNAPP who enjoys programming and le
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://vercel.app" alt="Matej's GitHub stats" />
-  <br><br>
+  <img src="https://vercel.app" alt="Matej's GitHub stats" /><br><br>
   <img src="https://vercel.app" alt="Top Langs" />
 </p>
 
