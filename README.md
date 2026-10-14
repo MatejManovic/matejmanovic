@@ -1,80 +1,117 @@
-# 👋 Hi, I'm Matej Manovic
-
-<h3 align="center">Application Development Apprentice • Linux Enthusiast • Future Software Developer</h3>
+# 👋 Hi, I'm Matej — Application Development Apprentice
 
 <p align="center">
   <a href="https://matejmanovic.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge" alt="Portfolio">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Application+Development+Apprentice;Linux+Enthusiast;Full-Stack+Learner;Always+Building+Cool+Projects"
-## 🧠 About Me
-
-I'm an Application Development Apprentice at **KNAPP** who enjoys building software, learning modern technologies, and solving real-world problems.
-
-- 💡 Passionate about programming and continuous learning
-- 🌐 Working with **HTML, CSS, JavaScript, React**
-- ⚙️ Learning **Node.js, Python, C and C++**
-- 🐧 Linux user and Open Source enthusiast
-- 🚀 Interested in Full-Stack Development
-- 🎯 Goal: Become a professional software developer and create useful applications
-
----
-
-## 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,cpp,mongodb,git,linux,vscode,p>
-
----
-
-## 🛠️ Tools & Environment
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColorimg src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-tps://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=moColor=white
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Application+Development+Apprentice;Linux+Enthusiast;Open+Source+Enthusiast;Future+Software+Developer;AlwaysCool+Projects
 </p>
 
 ---
 
-## 📁 Featured Projects
+### 🧠 About Me
 
-### 🤖 VC Discord Bot
-Temporary voice channel management bot built with Node.js.
+I'm an application development apprentice at KNAPP who enjoys programming and learning new technologies. I like building useful applications and improving my skills.
 
-### 🎮 Minecraft Launcher
-Custom launcher featuring a Skin Studio and Version Manager built with Python & CustomTkinter.
-
-### 💬 Local Chatroom
-Web-based chat application with user authentication using MongoDB, HTML, CSS and JavaScript.
+- 💡 I enjoy solving problems and learning new technologies.
+- 🌐 Currently working with **HTML**, **CSS**, **JavaScript** and **React**.
+- ⚙️ Expanding my knowledge in **C**, **C++**, **Python** and **Node.js**.
+- 🐧 Proud Linux user & Open Source enthusiast.
+- 🎯 Goal: Grow as an application developer and build useful software.
 
 ---
 
-## 📊 GitHub Statistics
+### 🚀 Programming Languages & Technologies I Use
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatejManovickyonight
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatejManovicyonight
-</p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,cpp,mongodb,git,linux,vscode,arduino&perline--
 
----
-
-## 🔥 GitHub Streak
+### 🛠️ Tools & Ecosystem
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MatejManovic&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?styleadge&logo=linux&logoColor=black
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual&logoColor=white
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb=white
+</p>
 
 ---
 
-## 📫 Connect With Me
+### 🏆 GitHub Trophies
 
-<p align="left">
-  <a href/github.com/MatejManovic
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=oColor=white
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MatejManovic&theme=tok-frame=true&no-bg=true&margin-w=10
 </p>
+
+---
+
+### 📁 Featured Projects
+
+- 🤖 **VC Discord Bot** – Simple Discord bot to create temporary voice channels using Node.js.
+- 🎮 **Minecraft Launcher** – Custom launcher with Skin Studio and Version Manager built with Python & CustomTkinter.
+- 💬 **Local Chatroom** – Chatroom with user registration using MongoDB, HTML, CSS and JavaScript.
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatejManovic&show_icons=true&themerue
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatejManovicyonight&hide_border=true
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MatejManovic&theme=tokyonight&r=true
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatejManovic&theme=t&hide_border=true
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MatejManovic/MatejManovic/output/github-contribution-grid-snake-dark.svg" alt="Snake animationl
+
+```bash
+matej@linux:~$ whoami
+
+Application Development Apprentice
+Linux Enthusiast
+Open Source Supporter
+Future Software Developer
+```
+
+```bash
+matej@linux:~$ skills
+
+HTML         ██████████
+CSS          █████████░
+JavaScript   ████████░░
+React        ███████░░░
+Python       ██████░░░░
+Linux        ██████████
+```
+
+---
+
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MatejManovic&label=Profile%20Views&color=36BCF7&style=for-the>
 
 ---
 
