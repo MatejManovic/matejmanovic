@@ -36,7 +36,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,python&theme=dark" alt="Programming languages and web development skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,python&theme=dark" alt="Programming languages and web development skills" />
 
   <br/><br/>
 
