@@ -50,11 +50,11 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=nodejs,linux,debian,bash,vscode,git,github,docker,unity&theme=dark" alt="Technologies and development tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,linux,debian,ubuntu,bash,vscode,git,github,docker,unity&theme=dark" alt="Technologies and development tools" />
 
   <br/><br/>
 
-  <sub>Node.js · Linux · Debian · Bash · Visual Studio Code · Git · GitHub · Docker · Unity</sub>
+  <sub>Node.js · Linux · Debian · Ubuntu · Bash · Visual Studio Code · Git · GitHub · Docker · Unity</sub>
 
 </div>
 
