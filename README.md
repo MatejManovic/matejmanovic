@@ -50,7 +50,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=nodejs,linux,debian,ubuntu,bash,terminal,vscode,git,github,docker,unity&theme=dark" alt="Technologies and development tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,linux,debian,ubuntu,bash,vscode,git,github,docker,unity&theme=dark" alt="Technologies and development tools" />
 
   <br/><br/>
 
