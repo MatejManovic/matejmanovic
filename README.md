@@ -27,7 +27,7 @@
   <br/>
   🌱 Improving my skills in Python, Node.js, JavaScript, C and C++
   <br/>
-  🛠️ Always learning by building real-world projects
+  🛠️ Always learning by building projects
 </p>
 
 ---
