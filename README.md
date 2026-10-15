@@ -40,7 +40,7 @@
 
   <br/><br/>
 
-  <sub>HTML · CSS · JavaScript · C · C++ · Python</sub>
+  <sub>HTML · CSS · C · C++ · Python</sub>
 
 </div>
 
