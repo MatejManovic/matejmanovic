@@ -96,7 +96,7 @@
 
 <div align="center">
   
-<img src="https://komarev.com/ghpvc/?username=MatejManovic&label=Profile+Views&color=915EFF&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=MatejManovic&label=Profile%20Views&color=915EFF&style=for-the-badge" alt="Profile views" />
 
   <br/><br/>
 
